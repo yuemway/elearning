@@ -1,0 +1,151 @@
+.kotak{
+    border: solid;
+}
+.summary-kategori{
+    background-color: #e9d3d3;
+    border-radius: 15px;
+}
+.summary-produk{
+    background-color: #e9d3d3;
+    border-radius: 15px;
+}
+.no-decoration{
+    text-decoration: none;
+}
+.no-decoration:hover{
+    color: #FC6736;
+}
+.warna1 {
+    background-color: #0C2D57;
+}
+.warna2 {
+    background-color: #FC6736;
+}
+.warna3 {
+    background-color: #FFB0B0;
+}
+.warna4 {
+    background-color: #EFECEC;
+}
+.warna5 {
+    background: linear-gradient(#0C2D57, #000000);   
+}
+.warna6 {
+    background-color: transparent;
+}
+.warna7 {
+    background: linear-gradient(#0C2D57, #4c6382, #EFECEC);  
+    height: 80vh; 
+}
+.warna8 {
+    background-color: #f3e3e3;
+}
+.warna9 {
+    background: linear-gradient(#0C2D57, #1bbcfb, #5274a0, #0869e8);   
+}
+.font{
+    color: #EFECEC;
+}
+.font2{
+    color: #071d3a;
+}
+.font3{
+    color: #FFB0B0;
+}
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/background.png');
+    object-fit: cover;
+    object-position: center;
+}
+.banner2 {
+    height: 60vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4));
+    background-color: #EFECEC;
+}
+.banner3 {
+    height: 35vh;
+    background-color: #071d3a;
+    object-fit: cover;
+    object-position: end;
+}
+.banner4 {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4));
+    object-fit: cover;
+    object-position: center;
+}
+.banner5 {
+    background-color: #0C2D57;
+}
+.banner6 {
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4));
+    background-color: #5274a0;
+}
+.banner7 {
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4));
+    background-color: #EFECEC;
+}
+.highlighted-kategori {
+    height: 250px;
+}
+.kategori-wallsticker{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/dxmo7L6lNo4hvvz5Ow99.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+.kategori-wallpanel{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/wallpanel.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.kategori-karpet{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/80tSzKBQMTfEj7ZId4NT.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.button:hover, a:hover {
+    color: #FC6736;
+}
+.text-harga {
+    font-size: 20px;
+    color: #0C2D57;
+}
+.image-box {
+    height: 150px;
+}
+.image-box2 {
+    height: 150px;
+    width: 250px;
+}
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.produk-terkait-center {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.shadow2 {
+    box-shadow: 0.5em 0.5em 0.5em rgba(8, 34, 67, 0.312);
+}
+.shadow3 {
+    box-shadow: 0.5em 0.5em 0.5em rgba(255, 176, 176, 0.563);
+    border-radius: 15px;
+}
+.c-item {
+    height: 560px;
+}
+  
+.c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}

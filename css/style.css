@@ -1,0 +1,17 @@
+.warna1 {
+    background-color: #0C2D57;
+}
+
+.warna2 {
+    background-color: #FC6736;
+}
+.warna3 {
+    background-color: #FFB0B0;
+}
+.warna4 {
+    background-color: #EFECEC;
+}
+.banner {
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/background.png');
+}
